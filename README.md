@@ -11,7 +11,9 @@ Instead of starting Ark directly, right-click the script and "Run with Powershel
 
 ## Safety
 
-In general it's a bad idea to run some random dude's script you found on the internet. Please read the script as best you can and confirm for yourself that there are now security ramifactions.
+In general it's a bad idea to run some random dude's script you found on the internet. Please read the script as best you can and confirm for yourself that there are now security ramifactions. I cannot stress this enough:
+
+**USE AT YOUR OWN RISK**
 
 ## What It Does
 
